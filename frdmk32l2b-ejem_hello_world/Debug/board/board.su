@@ -1,0 +1,5 @@
+C:\nxp\frdmk32l2b-ejem_hello_world\CMSIS/core_cm0plus.h:779:22:__NVIC_DisableIRQ	16	static
+C:\nxp\frdmk32l2b-ejem_hello_world\CMSIS/core_cm0plus.h:832:22:__NVIC_ClearPendingIRQ	16	static
+C:\nxp\frdmk32l2b-ejem_hello_world\drivers/fsl_clock.h:470:20:CLOCK_SetLpuart0Clock	16	static
+../board/board.c:25:6:BOARD_InitDebugConsole	16	static
+../board/board.c:111:6:SystemInitHook	8	static

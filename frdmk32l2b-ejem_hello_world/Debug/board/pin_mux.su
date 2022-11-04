@@ -1,0 +1,4 @@
+C:\nxp\frdmk32l2b-ejem_hello_world\drivers/fsl_clock.h:438:20:CLOCK_EnableClock	24	static
+C:\nxp\frdmk32l2b-ejem_hello_world\drivers/fsl_port.h:425:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:31:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:56:6:BOARD_InitPins	16	static
